@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Shaurya
 #### I am a Final Year student at Thapar Institute of Engineering & Technology, pursuing Computer Engineering.
 
-Skills: JS / REACT / HTML / CSS / Bootstrap / Solidity /  
+Skills: JS / ANGULAR / REACT / HTML / CSS / Bootstrap / Solidity /  
 
 - 👯 I’m looking to collaborate on interesting and unique projects! 
 - 😄 Pronouns: He/Him 
